@@ -1,0 +1,13 @@
+:root {
+    --color-midnight-200: rgba(0, 5, 35, .08);
+    --color-text: rgb(0 5 35);
+}
+
+#ul_menu {
+    padding: 4px 4px 4px 40px;
+}
+
+#button-dark {
+    background-color: var(--color-midnight-200);
+    color: var(--color-text);
+}
